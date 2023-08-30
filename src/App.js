@@ -1,4 +1,4 @@
-import WeatherApp from "./components/weatherApp";
+import WeatherApp from "./components/weatherApp/weatherApp";
 
 
 function App() {
